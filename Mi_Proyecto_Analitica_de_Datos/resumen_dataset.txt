@@ -1,0 +1,20 @@
+=== RESUMEN DEL DATASET ===
+
+Cantidad de filas: 150
+Cantidad de columnas: 6
+
+--- Columnas y Tipos de Datos ---
+Columna: id | Tipo: int64
+Columna: largo_sepalo | Tipo: float64
+Columna: ancho_sepalo | Tipo: float64
+Columna: largo_petalo | Tipo: float64
+Columna: ancho_petalo | Tipo: float64
+Columna: especie | Tipo: str
+
+--- Valores Nulos Encontrados ---
+Columna 'id': 0 nulos
+Columna 'largo_sepalo': 0 nulos
+Columna 'ancho_sepalo': 0 nulos
+Columna 'largo_petalo': 0 nulos
+Columna 'ancho_petalo': 0 nulos
+Columna 'especie': 0 nulos
